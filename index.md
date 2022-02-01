@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## E104T 六軍團幹訓班
 
 You can use the [editor on GitHub](https://github.com/ShunyanHsu/armylife.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
